@@ -14,3 +14,12 @@
     color: white;
     height: 80px;
 }
+.parallax{
+    background-image: url(./Cover.jpg);
+    min-height: 520px;
+    object-fit: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+}
